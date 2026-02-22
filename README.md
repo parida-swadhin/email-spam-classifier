@@ -101,7 +101,7 @@ These metrics ensure:
 ---
 ### 1️ Clone the Repository
 ```bash
-git clone <your-repository-link>
+git clone  https://github.com/parida-swadhin/email-spam-classifier.git
 cd email-spam-classifier
 ```
 
