@@ -26,7 +26,7 @@ The objective of this project is to design a machine learning pipeline that can 
 
 ---
 
-## 🧠 Solution Architecture
+##  Solution Architecture
 
 ### 1️ Data Preprocessing
 - Convert text to lowercase
